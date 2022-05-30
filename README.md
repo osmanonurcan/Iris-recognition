@@ -18,6 +18,8 @@
 </br></br>
 ![alt text](https://github.com/osmanonurcan/Iris-recognition/blob/main/images/12.jpg)
 </br></br>
+![alt text](https://github.com/osmanonurcan/Iris-recognition/blob/main/images/14.png)
+</br></br>
 
 References:</br>
 [1]https://www3.nd.edu/~kwb/IJCB_2014_Tutorial.pdf</br>
