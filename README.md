@@ -22,7 +22,7 @@
 </br></br>
 
 References:</br>
-[1]https://www3.nd.edu/~kwb/IJCB_2014_Tutorial.pdf</br>
+[1]https://github.com/thuyngch/Iris-Recognition</br>
 [2]https://www.sci.utah.edu/~shireen/pdfs/tutorials/Elhabian_Iris09.pdf</br>
 [3] https://www.cl.cam.ac.uk/~jgd1000/radialcorrel.pdf</br>
 [4] https://www.cl.cam.ac.uk/~jgd1000/InfoTheoryIrisCode.pdf</br>
@@ -36,7 +36,7 @@ References:</br>
 [12] https://tr.wikipedia.org/wiki/Python_Imaging_Library</br>
 [13] https://pypi.org/project/pyparsing/</br>
 [14] https://www.irjet.net/archives/V3/i3/IRJET-V3I3335.pdf</br>
-[15] https://github.com/thuyngch/Iris-Recognition</br>
+[15] https://www3.nd.edu/~kwb/IJCB_2014_Tutorial.pdf</br>
 [16] https://docs.opencv.org/3.4/dd/d49/tutorial_py_contour_features.html</br>
 [17] https://stackoverflow.com/questions/12567520/opencv-using-hough-circle-transformation-to-detect-iris</br>
 [18] https://stackoverflow.com/questions/13760110/using-opencv-fitellipse-for-circle-fitting</br>
